@@ -1,0 +1,5 @@
+modify chair 17.99
+refresh desk 70 51.19
+modify lamp 30.33
+modify table 260.44
+refresh vase 7 11.19
